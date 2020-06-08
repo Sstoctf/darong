@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="text.mp3" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping pattern="interger" type="XML" />
+      <mapping pattern="weather" type="XML" />
+    </extensionMap>
+  </component>
+</application>
