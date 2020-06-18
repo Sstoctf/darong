@@ -7,6 +7,7 @@
       <mapping ext="db" type="SQL" />
       <mapping pattern="interger" type="XML" />
       <mapping pattern="weather" type="XML" />
+      <mapping pattern="searchable" type="XML" />
       <mapping pattern="text" type="XML" />
     </extensionMap>
   </component>
