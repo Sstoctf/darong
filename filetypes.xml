@@ -4,6 +4,7 @@
       <mapping pattern="text.mp3" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
       <mapping pattern="interger" type="XML" />
       <mapping pattern="weather" type="XML" />
       <mapping pattern="text" type="XML" />
